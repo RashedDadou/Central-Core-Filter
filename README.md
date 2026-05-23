@@ -60,7 +60,60 @@ To build an advanced **perception engine** that understands:
 
 ---
 
+## pipeline
+
+```python
+
+User Input (Comment or Message)
+
+↓
+─────────────────────────────
+1. Deep Meaning Interpreter (DMI)
+
+- Analyzing subliminal meanings + emotion + context + Kareboji Level
+
+↓ 
+
+┌─────────────────────────── ────────────────────────────┐ 
+│ │ 
+↓ │
+3. Central Core Engine (Multi-Lines) ↔ Live Prohibited Memory System (2-Layer) 
+│ (Bidirectional Check + Refresh Memory) │ 
+│ - Kareboji Line │ 
+│ - Truth Line │ 
+│ - Technical Line │ 
+│ - Risk Line │ 
+│ - Personality Line │ 
+└─────────────────────────── ────────────────────────────┘ 
+↓
+4. Weighted Fusion Layer
+- Merging Lines + Retrieval Memory Results
+
+- Calculating Final Freedom Score + Response Style
+
+↓
+5. Decision Engine
+
+- Full Kareboji Mode
+
+- Enhanced Kareboji Mode
+
+- Balanced/Safe Mode
+
+↓
+6. Output Generator
+
+- Generating the final response with a personal touch
+
+```
+
+---
+
 ## 🚀 How to Run It
 
 ```bash
 python central_core_engine.py
+
+```
+
+---
