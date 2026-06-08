@@ -1,0 +1,35 @@
+# ⚖️ PROPRIETARY SOFTWARE LICENSE AGREEMENT
+
+## Physics-Math-Core
+
+**Copyright (c) 2026 Rashed Dadoush. All Rights Reserved.**
+
+---
+
+### 1. PROPRIETARY AND CONFIDENTIALITY NOTICE
+This software, along with all its structural logic, architectural pipelines, source code, binary forms, and associated documentation (collectively referred to as the "Software"), is the exclusive, proprietary, and confidential property of **Rashed Dadoush**. 
+
+### 2. STRICT LICENSE RESTRICTIONS
+Redistribution, execution, modification, copying, reverse-engineering, decompilation, or distribution of this Software—whether in its original source form or compiled binary form, and whether for commercial, corporate, research, or non-commercial purposes—is **STRICTLY PROHIBITED** without the prior, explicit, written and signed permission of the copyright holder.
+
+### 3. CASE-BY-CASE SPECIAL PERMISSIONS
+Special licensing permissions for corporate use, technological modification, distribution, or commercial licensing may be granted exclusively on a case-by-case basis. Any such authorization will require a separate, legally binding, signed **Licensing Agreement** or **Joint Venture Contract** with the copyright holder.
+
+### 4. CONTACT FOR LICENSING & COLLABORATION
+For enterprise licensing inquiries, strategic research collaboration, or commercial utilization requests, please contact the creator directly through the following official channels:
+* **Creator & Owner:** Rashed Dadoush
+* **Email:** rasheddadou@gmail.com
+* **Mobile / WhatsApp:** +963 943 307 057
+
+---
+
+### 5. LEGAL DISCLAIMER OF WARRANTY
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT ARE DISCLAIMED. 
+
+IN NO EVENT SHALL THE AUTHOR, CREATOR, OR COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+
+### 📅 HISTORICAL DEVELOPMENT LOG
+* **Original Architecture & Concept Innovation:** Commenced on Jun 20, 2026
+* **Principal Architect, Owner & Intellectual Property Holder:** Rashed Dadoush
